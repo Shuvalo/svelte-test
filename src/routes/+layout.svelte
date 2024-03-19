@@ -29,7 +29,7 @@
         },
         {
             title:'Контакты',
-            href:'/concact'
+            href:'/contact'
         },
         {
             title:'temp',
