@@ -20,6 +20,10 @@
             href:'/about'
         },
         {
+            title:'Блог',
+            href:'/blog'
+        },
+        {
             title:'Портфолио',
             href:'/project'
         },
@@ -31,10 +35,7 @@
             title:'temp',
             href:'/temp'
         },
-        {
-        title: "temp",
-        href: "/temp"
-        }
+       
     ]
 </script>
 <style>
